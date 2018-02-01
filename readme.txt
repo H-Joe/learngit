@@ -3,4 +3,4 @@ Git is fee software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 git new
-Git create a new branch.
+Git create a new branch is simple & quick.
